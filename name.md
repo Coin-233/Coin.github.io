@@ -1,5 +1,5 @@
 # 请输入
-<form action="list.asp">
+<form action="/list.txt">
 First name:<br>
 <input type="text" name="firstname" value="">
 <br>
